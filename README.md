@@ -1,5 +1,7 @@
 # HOC для контроля доступа
 
+[![Deploy React App to GitHub Pages](https://github.com/Milka79rus/hoc-authorization/actions/workflows/deploy.yml/badge.svg)](https://github.com/Milka79rus/hoc-authorization/actions/workflows/deploy.yml)
+
 Учебный проект на React + TypeScript, реализующий Higher-Order Component `withAuthorization` для ограничения доступа к компонентам на основе ролей пользователя — без использования React Context API.
 
 ## Стек
